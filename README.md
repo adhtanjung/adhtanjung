@@ -81,6 +81,10 @@
  <a href="https://expressjs.com/" target="_blank"> 
     <img alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   </a>
+ &emsp;
+ <a href="https://nestjs.com/" target="_blank"> 
+    <img alt="nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  </a>
 </p>
 
 ### Databases & Cloud Hosting
