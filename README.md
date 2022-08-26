@@ -21,6 +21,10 @@
    <a href="https://nodejs.org" target="_blank">
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
+   &emsp;
+   <a href="https://go.dev/g" target="_blank">
+    <img alt="Go src=	https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  </a>
 </p>
 
 ###  Frontend Development
