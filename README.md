@@ -23,7 +23,7 @@
   </a>
    &emsp;
    <a href="https://go.dev/g" target="_blank">
-    <img alt="Go src=	https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   </a>
 </p>
 
