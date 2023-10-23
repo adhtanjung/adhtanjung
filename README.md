@@ -33,14 +33,6 @@
 
 ###  Frontend Development
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
  &emsp;
   <a href="https://sass-lang.com" target="_blank"> 
     <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -54,22 +46,6 @@
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </a>
  &emsp;
- <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
-  &emsp;
- <a href="https://www.styled-components.com" target="_blank"> 
-    <img alt="styled component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  </a>
-    &emsp;
- <a href="https://redux.js.org" target="_blank"> 
-    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  </a>
-   &emsp;
- <a href="https://webpack.js.org/" target="_blank"> 
-    <img alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
-  </a>
-    &emsp;
  <a href="https://nextjs.org/" target="_blank"> 
     <img alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   </a>
@@ -93,6 +69,11 @@
  <a href="https://nestjs.com/" target="_blank"> 
     <img alt="nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   </a>
+  &emsp;
+ <a href="#" target="_blank"> 
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+ </a>
+ 
 </p>
 
 ### Databases & Cloud Hosting
